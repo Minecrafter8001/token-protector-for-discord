@@ -30,3 +30,5 @@ Method B:
 1. Run the protector: `python token_protector.py`
 2. Follow the on-screen instructions to setup the token protector.
 3. The tool will encrypt and securely store your token, providing a protected version for discord to use
+
+shhh (eWVzIHRoaXMgaXMgZmFrZQ==)
